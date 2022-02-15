@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: a28be3ab-a197-1e2b-ccf5-fc519a6d0346
 ---
@@ -486,7 +488,7 @@ Dr. Fan Tu
 "[Promoting Urban Sustainability Through Green Technology: The Case of Malaysia](https://malaysiacities.mit.edu/paperTu)"
 {{< tdclose >}}
 {{< tdopen >}}
-"[Exploring The Potential For CO2 Emission Reduction Through Green Technology Adoption in Malaysia]({{< baseurl >}}/resources/exploring-the-potential-for-co2-emission-reduction-through-green-technology-adoption-in-malaysia)"
+"[Exploring The Potential For CO{{< sub "2" >}} Emission Reduction Through Green Technology Adoption in Malaysia]({{< baseurl >}}/resources/exploring-the-potential-for-co2-emission-reduction-through-green-technology-adoption-in-malaysia)"
 {{< tdclose >}}
 
 {{< trclose >}}

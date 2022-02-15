@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-384-malaysia-sustainable-cities-practicum-spring-2018/d32a446bf1335fe2a743bdfbc7ae011d_WFbNs3fZJAo.vtt
+file: /media/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/d32a446bf1335fe2a743bdfbc7ae011d_WFbNs3fZJAo.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: d32a446b-f133-5fe2-a743-bdfbc7ae011d

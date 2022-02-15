@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 title: 'Malaysia Sustainable Cities Program: History and Implementation'
 uid: 1f0d60d2-bee8-90be-536b-2e3549448e14

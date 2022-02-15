@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 ---
@@ -53,18 +55,6 @@ None
 ### Offered
 
 The Practicum has been offered every year since 2014.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A busy street scene in Malaysia. ]({{< resource_file 41909151-2eb8-b862-64f1-6f263b696cd6 >}})
-    
-    ### Practicum
-    
-    Students spend approximately two weeks in Malaysia, visiting multiple cities. They engage in group reflection and conduct field-based research. The city pictured here is Kuala Lumpur. (Image courtesy of April Ognibene, 2016. Used with permission.)
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

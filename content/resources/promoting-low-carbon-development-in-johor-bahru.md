@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2016 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Promoting Low Carbon Development in Johor Bahru
 uid: aae57c2e-0421-ed68-e1b3-5afa5df2d50e
 video_files:
   archive_url: https://archive.org/download/MIT11.384F15/MIT11_384F15_Azeez_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/11-384-malaysia-sustainable-cities-practicum-spring-2018/2c521fff20e8535eb4809d570743aa08_IlkbvrpAbPU.vtt
+  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/2c521fff20e8535eb4809d570743aa08_IlkbvrpAbPU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/IlkbvrpAbPU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/11-384-malaysia-sustainable-cities-practicum-spring-2018/0e344620c471cdc311631c779238d04e_IlkbvrpAbPU.pdf
+  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/0e344620c471cdc311631c779238d04e_IlkbvrpAbPU.pdf
 video_metadata:
   youtube_id: IlkbvrpAbPU
 ---

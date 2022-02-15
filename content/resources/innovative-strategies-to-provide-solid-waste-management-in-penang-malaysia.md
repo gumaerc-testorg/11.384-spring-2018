@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 2016 Teaching Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Innovative Strategies to Provide Solid Waste Management in Penang, Malaysia
 uid: c0d5f664-1ebc-6c86-e439-7482b6e2f66a
 video_files:
   archive_url: https://archive.org/download/MIT11.384F15/MIT11_384F15_Jose_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/11-384-malaysia-sustainable-cities-practicum-spring-2018/616d391206485bc495717f08c06dbb13_9ICCzJGPaPA.vtt
+  video_captions_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/616d391206485bc495717f08c06dbb13_9ICCzJGPaPA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9ICCzJGPaPA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/11-384-malaysia-sustainable-cities-practicum-spring-2018/e69cd77b86b37e0503695ae9a54e3331_9ICCzJGPaPA.pdf
+  video_transcript_file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/e69cd77b86b37e0503695ae9a54e3331_9ICCzJGPaPA.pdf
 video_metadata:
   youtube_id: 9ICCzJGPaPA
 ---

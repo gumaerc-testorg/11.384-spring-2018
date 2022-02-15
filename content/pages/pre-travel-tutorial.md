@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Pre-Travel Tutorial
 uid: cb99f732-153d-3c8b-0183-be1f42376728
 ---

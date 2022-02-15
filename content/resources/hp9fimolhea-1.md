@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-384-malaysia-sustainable-cities-practicum-spring-2018/bbbe2c367ef871b4c7f552213e6dfe3a_hP9FIMolHEA.pdf
+file: /media/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/bbbe2c367ef871b4c7f552213e6dfe3a_hP9FIMolHEA.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: bbbe2c36-7ef8-71b4-c7f5-52213e6dfe3a
