@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 resourcetype: Image
 title: Kuala Lumpur
 uid: 41909151-2eb8-b862-64f1-6f263b696cd6

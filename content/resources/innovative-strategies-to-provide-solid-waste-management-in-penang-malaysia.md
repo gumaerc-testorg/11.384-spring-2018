@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Innovative Strategies to Provide Solid Waste Management in Penang, Malaysia
 uid: c0d5f664-1ebc-6c86-e439-7482b6e2f66a
 video_files:

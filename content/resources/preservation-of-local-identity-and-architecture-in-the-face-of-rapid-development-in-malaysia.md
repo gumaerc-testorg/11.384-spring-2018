@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Preservation of Local Identity and Architecture in the Face of Rapid Development
   in Malaysia
 uid: ab12635d-4701-8eca-8d5a-153d097ce30b

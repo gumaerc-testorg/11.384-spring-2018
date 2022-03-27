@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Exploring The Potential For CO2 Emission Reduction Through Green Technology
   Adoption in Malaysia
 uid: 2c5c3595-da39-5592-3a16-d492149040e2

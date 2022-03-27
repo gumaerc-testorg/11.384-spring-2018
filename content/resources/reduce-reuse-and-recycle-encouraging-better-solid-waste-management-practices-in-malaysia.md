@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '"Reduce, Reuse and Recycle", Encouraging Better Solid Waste Management Practices
   in Malaysia'
 uid: 13be27f7-358c-939a-ff91-d5e861085d19

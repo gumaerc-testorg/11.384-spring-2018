@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Reducing Motorcycle Fatality and Promoting Sustainable Transport in Malaysia
 uid: 67aac1a9-bf6d-475e-5a3d-099573afce9b
 video_files:

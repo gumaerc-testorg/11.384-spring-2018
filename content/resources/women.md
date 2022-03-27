@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Research Agendas
 parent_type: CourseSection
+parent_uid: 3ed8c575-869c-8483-0a78-d90e1a447f8e
 resourcetype: Image
 title: women.jpg
 uid: d1ad4960-23d3-4837-8998-52a4251a3f09
