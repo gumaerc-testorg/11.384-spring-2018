@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 ---
-
-Course Overview
----------------
+## Course Overview
 
 The Malaysia Sustainable Cities Practicum (MSCP) is an intensive field-based course that brings 15 graduate students to Malaysia to learn about and analyze sustainable city development in five cities in Malaysia.
 
@@ -18,31 +19,28 @@ Each year, [MSCP visiting international scholars](https://malaysiacities.mit.edu
 
 The Practicum concludes with a one-week group session at MIT that generates a [Research Agenda](https://malaysiacities.mit.edu/researchagenda) spelling out suggested research topics for the next year's cohort of international visiting scholars.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Understand the constraints on, and opportunities for, sustainable development in Malaysia
-*   Provide feedback to various development agencies
-*   Identify projects or policy-making efforts that can serve as the focus of the research of future visiting international scholars
+- Understand the constraints on, and opportunities for, sustainable development in Malaysia
+- Provide feedback to various development agencies
+- Identify projects or policy-making efforts that can serve as the focus of the research of future visiting international scholars
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "Students in the Practicum are helping to identify the ways in which cities in Malaysia are striving to enhance sustainability." "— Lawrence Susskind" >}}
 
-_In the following pages, Lawrence Susskind describes various aspects of how he teaches_ 11.384 Malaysia Sustainable Cities Practicum_._
+*In the following pages, Prof. Lawrence Susskind describes various aspects of how he teaches* 11.384 Malaysia Sustainable Cities Practicum.
 
-*   [Malaysia Sustainable Cities Program: History and Implementation]({{< baseurl >}}/pages/instructor-insights/malaysia-sustainable-cities-program-history-and-implementation)
-*   [Collaborating with Visiting International Scholars]({{< baseurl >}}/pages/instructor-insights/collaborating-with-visiting-international-scholars)
-*   [The Role of Reflective Practice]({{< baseurl >}}/pages/instructor-insights/the-role-of-reflective-practice)
-*   [The Role of Online Technology]({{< baseurl >}}/pages/instructor-insights/the-role-of-online-technology)
+- {{% resource_link 1f0d60d2-bee8-90be-536b-2e3549448e14 "Malaysia Sustainable Cities Program: History and Implementation" %}}
+- {{% resource_link e357535c-fb8a-d125-607e-c3f40310362e "Collaborating with Visiting International Scholars" %}}
+- {{% resource_link bd7dcf48-3bba-73c4-46a6-dc109a96dbbc "The Role of Reflective Practice" %}}
+- {{% resource_link 3c89ec9d-0b51-35da-aadd-ffeec39fb5cf "The Role of Online Technology" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -58,17 +56,17 @@ The Practicum has been offered every year since 2014.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 Students are assessed on a pass/fail basis.
 
-Student Information
--------------------
+## Student Information
 
-![15.png]({{< resource_file a7d1e710-d52e-8ae9-a293-6a6cbf756a9b >}})
+### Enrollment
+
+15 students
 
 ### Breakdown by Year
 
@@ -80,29 +78,24 @@ Mostly urban studies and planning
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
-Fall: Pre-Travel Online Tutorial and Workshop
----------------------------------------------
+### Fall: Pre-Travel Online Tutorial and Workshop
 
-*   Students complete a mandatory self-paced online tutorial that prepares them to interact with citizens and public officials in Malaysia. The tutorial covers Malaysian culture, history, politics, geography, ecology, planning, and economics.
-*   Students write three short response papers based on the assigned readings and are encouraged to integrate any additional readings on Malaysia beyond what is assigned.
-*   Practicum students also participate in a short reflective practice workshop facilitated by the [Community Innovator’s Lab (CoLab)](https://colab.mit.edu/) in DUSP to learn about the reflective practice and journaling tools they are expected to use throughout the Practicum.
+- Students complete a mandatory self-paced online tutorial that prepares them to interact with citizens and public officials in Malaysia. The tutorial covers Malaysian culture, history, politics, geography, ecology, planning, and economics.
+- Students write three short response papers based on the assigned readings and are encouraged to integrate any additional readings on Malaysia beyond what is assigned.
+- Practicum students also participate in a short reflective practice workshop facilitated by the [Community Innovator’s Lab (CoLab)](https://colab.mit.edu/) in DUSP to learn about the reflective practice and journaling tools they are expected to use throughout the Practicum.
 
-January: Travel to Malaysia
----------------------------
+### January: Travel to Malaysia
 
-*   Under the direction of the MIT Faculty Committee for the program, students travel from Boston to Malaysia. They spend approximately two full weeks in Malaysia over the January Independent Activities Period (IAP).
-*   During this time they visit multiple cities, engage in group reflection, and conduct field-based research in conjunction with our colleagues at the Universiti Teknologi Malaysia (UTM).
+- Under the direction of the MIT Faculty Committee for the program, students travel from Boston to Malaysia. They spend approximately two full weeks in Malaysia over the January Independent Activities Period (IAP).
+- During this time they visit multiple cities, engage in group reflection, and conduct field-based research in conjunction with our colleagues at the Universiti Teknologi Malaysia (UTM).
 
-Spring: Report Writing
-----------------------
+### Spring: Report Writing
 
-*   The final portion of the Practicum concludes with a group report-writing session during the last week of IAP for which all students must be present. Students produce a Research Agenda for the coming year.
+- The final portion of the Practicum concludes with a group report-writing session during the last week of IAP for which all students must be present. Students produce a Research Agenda for the coming year.
 
-Course Team Roles
------------------
+## Course Team Roles
 
 ### DUSP and UTM Faculty
 
