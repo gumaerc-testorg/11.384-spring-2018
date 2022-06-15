@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 2015 Teaching Videos
@@ -28,3 +29,6 @@ video_metadata:
 **Instructor:** Dr. Akmal Abdelfatah
 
 **Working Paper:** "[Traffic Fatality Causes and Trends in Malaysia](https://malaysiacities.mit.edu/paperAbdelfatah)"
+
+
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains general information about the schedule and goals
+  of the course and the details about assignments and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Students must apply and be accepted into the [Malaysia Sustainable Cities Practi
 Syllabus
 --------
 
-[2016-2017 Syllabus (PDF)]({{< baseurl >}}/resources/mit11_384s18_syllabus)
+{{% resource_link 409e0a39-7777-c842-a0c9-50bc3bd09ca1 "2016-2017 Syllabus (PDF)" %}}
 
 Overview
 --------
@@ -36,7 +38,7 @@ In the first part of the Practicum, which happens in the fall each year, selecte
 
 During the January Independent Activities Period, students and faculty travel to Malaysia for two weeks to conduct field-based research in conjunction with student and faculty colleagues at Universiti Teknologi Malaysia. 
 
-The Practicum concludes with a one week group session at MIT that generates a [Research Agenda]({{< baseurl >}}/pages/research-agendas) spelling out suggested research topics for the next year's cohort of International Scholars.
+The Practicum concludes with a one week group session at MIT that generates a {{% resource_link 3ed8c575-869c-8483-0a78-d90e1a447f8e "Research Agenda" %}} spelling out suggested research topics for the next year's cohort of International Scholars.
 
 Course Requirements and Responsibilities
 ----------------------------------------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains videos created by the Malaysia Sustainable Cities
+  Practicum Scholars from 2016.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

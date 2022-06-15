@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 2016 Teaching Videos
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor:** Dr. Gurupiah Mursib
 
 **Working Paper:** "[Significance of Local Involvement in Continuing Local Architectural Identity](http://malaysiacities.mit.edu/paperMursib)"
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/79c5711702365249976868da802cb164_zqG5N0ixkak.vtt
+file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/79c5711702365249976868da802cb164_zqG5N0ixkak.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

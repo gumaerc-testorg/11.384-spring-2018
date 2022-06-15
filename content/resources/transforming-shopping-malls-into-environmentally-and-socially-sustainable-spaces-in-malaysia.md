@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 2015 Teaching Videos
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor:** Dr. Akinropo Oluremi Akindele
 
 **Working Paper:** "[A Comparative Analysis of Shopping Malls in Putrajaya and Bukit Indah, Malaysia](https://malaysiacities.mit.edu/paperAkinropo)"
+
+
+

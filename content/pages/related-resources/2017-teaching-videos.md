@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the teaching videos for the 2017 Cohort of the
+  Malaysia Sustainable Cities Practicum.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

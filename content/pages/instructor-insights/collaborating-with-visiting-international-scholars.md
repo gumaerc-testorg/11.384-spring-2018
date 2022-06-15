@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Prof. Lawrence Susskind shares how visiting international
+  scholars are selected to participate in the Malaysia Sustainable Cities Program
+  (MSCP), describes the role of feedback in the program, and illustrates how he hopes
+  participating in the program will impact the careers of the visiting scholars.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
