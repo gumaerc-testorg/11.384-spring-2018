@@ -12,6 +12,7 @@ image_metadata:
   image-alt: A  man in a white shirt and a red hat sorts through fish and shrimp on
     a counter. A few men stand around him.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Pre-Travel Tutorial
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: fishermen.jpg
 uid: 227d6c31-7f60-528c-a4b6-48591b2ec19b
 ---
 The leader of a fishing co-op weighs the daily catch of fish and shrimp. Photo by Sera Tolgay.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Street photo of the city of Kuala Lumpur.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: Kuala Lumpur
 uid: 41909151-2eb8-b862-64f1-6f263b696cd6
 ---
 Street photo of the city of Kuala Lumpur.
-

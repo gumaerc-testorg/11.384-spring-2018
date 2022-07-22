@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Instructor:** Dr. Wesam Al Madhoun
 
 **Working Paper****:** "[Temporal Distributions of Volatile Organic Compounds (VOCs) in an Equatorial Urban Environment](http://malaysiacities.mit.edu/paperMadhoun)"
-
-
 

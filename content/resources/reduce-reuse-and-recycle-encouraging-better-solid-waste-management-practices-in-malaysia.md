@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ video_metadata:
 **Instructor:** Dr. Zainura Zainon Noor
 
 Working Paper: "[Towards Sustainable Household Waste Management in Urban Areas: Determinants that Hindered Recycling Activities in the City of Johor Bahru, Malaysia](https://malaysiacities.mit.edu/paperNoor)"
-
-
 

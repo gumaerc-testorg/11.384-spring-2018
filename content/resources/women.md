@@ -10,6 +10,7 @@ image_metadata:
   credit: Photo by Rebecca Hui.
   image-alt: Two women sit leaning together in a doorway.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Research Agendas
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: women.jpg
 uid: d1ad4960-23d3-4837-8998-52a4251a3f09
 ---
 Bidayuk women reflecting on history of the village and relationship with palm oil industry. Photo by Rebecca Hui.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: street life photo
 uid: 6c5aec53-5746-0776-ffea-7e47e08ed7dc
 ---
 Street life in Kuala Lumpur, Malaysia.
-
