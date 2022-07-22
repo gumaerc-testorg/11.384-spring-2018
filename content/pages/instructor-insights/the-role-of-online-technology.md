@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: "In this section, Prof. Lawrence Susskind describes the role that online\
+  \ tools play in recruiting visiting scholars and students to participate in the\
+  \ Malaysia Sustainable Cities Program, and how, among other things, online tools\
+  \ help MIT students prepare students to \u201Cinteract with citizens and public\
+  \ officials in Malaysia.\u201D   "
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 title: The Role of Online Technology
 uid: 3c89ec9d-0b51-35da-aadd-ffeec39fb5cf

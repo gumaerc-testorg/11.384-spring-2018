@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Prof. Lawrence Susskind shares how the Malaysia Sustainable
+  Cities Program began and describes the groups of scholars, students, and administrative
+  support staff involved in implementing the program.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 title: 'Malaysia Sustainable Cities Program: History and Implementation'
 uid: 1f0d60d2-bee8-90be-536b-2e3549448e14
@@ -9,7 +15,7 @@ uid: 1f0d60d2-bee8-90be-536b-2e3549448e14
 
 _In this section, Prof. Lawrence Susskind shares how the Malaysia Sustainable Cities Program began and describes the groups of scholars, students, and administrative support staff involved in implementing the program._
 
-![A traditional Malaysian house is in the foreground, with skyscrapers in the background. ]({{< resource_file f446b473-16a2-ca7d-e84d-33f5c7e86cd6 >}})
+{{< resource f446b473-16a2-ca7d-e84d-33f5c7e86cd6 >}}
 
 Traditional Malay house contrasted with high-rise development in Kuala Lumpur. (Image courtesy of Marcell Williams. Used with permission.)
 
