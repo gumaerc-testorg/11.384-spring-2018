@@ -37,5 +37,3 @@ video_metadata:
 
 **Working Paper:** "[Promoting Urban Sustainability Through Green Technology: The Case of Malaysia](https://malaysiacities.mit.edu/paperTu)"
 
-
-
