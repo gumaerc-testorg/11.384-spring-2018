@@ -2,6 +2,7 @@
 content_type: resource
 description: Street photo of the city of Kuala Lumpur.
 file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/419091512eb8b86264f16f263b696cd6_Kampung-Bharu.jpg
+file_size: 74671
 file_type: image/jpeg
 image_metadata:
   caption: ''

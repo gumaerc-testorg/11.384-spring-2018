@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/029e1ff829c8bb0cc1ee657b704fde9e_b-PoEwPoRe8.srt
+file_size: 23574
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
