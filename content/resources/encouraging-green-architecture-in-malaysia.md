@@ -30,5 +30,5 @@ video_metadata:
 
 **Instructor:** Shraddha Pandey
 
-**Working Paper:** "[Impact of Green Building Ratings Systems on the Sustainability and Efficacy of Green Buildings: Case Analysis of Green Building Index, Malaysia](https://malaysiacities.mit.edu/paperPandey)."
+**Working Paper:** "{{% resource_link "6b04c6d6-bb07-448a-99fd-02a4f3d31a56" "Impact of Green Building Ratings Systems on the Sustainability and Efficacy of Green Buildings: Case Analysis of Green Building Index, Malaysia" %}}."
 

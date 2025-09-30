@@ -11,7 +11,7 @@ uid: 4fbf09c2-020d-2487-4fca-2bc866013ce3
 Prerequisites
 -------------
 
-Students must apply and be accepted into the [Malaysia Sustainable Cities Practicum](https://malaysiacities.mit.edu/).
+Students must apply and be accepted into the {{% resource_link "15e27542-23c8-4d93-8c06-f69362242684" "Malaysia Sustainable Cities Practicum" %}}.
 
 Syllabus
 --------
@@ -53,4 +53,4 @@ Under the direction of the MIT Faculty Committee for the program, students will 
 
 ### Spring: Report Writing
 
-The final portion of the Practicum concludes with a group report-writing session during the last week of IAP for which all students must be present. The students will produce a Research Agenda for the coming year. Prior Research Agenda can be accessed at the [Malaysia Sustainable Cities Practicum](https://malaysiacities.mit.edu/researchagenda) website.
+The final portion of the Practicum concludes with a group report-writing session during the last week of IAP for which all students must be present. The students will produce a Research Agenda for the coming year. Prior Research Agenda can be accessed at the {{% resource_link "08b1d563-6cb8-4813-b842-3a87b7095aa9" "Malaysia Sustainable Cities Practicum" %}} website.

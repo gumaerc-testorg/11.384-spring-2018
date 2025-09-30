@@ -30,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Akmal Abdelfatah
 
-**Working Paper:** "[Traffic Fatality Causes and Trends in Malaysia](https://malaysiacities.mit.edu/paperAbdelfatah)"
+**Working Paper:** "{{% resource_link "094a7b49-04fd-449f-8fb2-e9cdd68d746d" "Traffic Fatality Causes and Trends in Malaysia" %}}"
 

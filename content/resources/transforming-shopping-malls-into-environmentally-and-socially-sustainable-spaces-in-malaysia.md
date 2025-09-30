@@ -31,5 +31,5 @@ video_metadata:
 
 **Instructor:** Dr. Akinropo Oluremi Akindele
 
-**Working Paper:** "[A Comparative Analysis of Shopping Malls in Putrajaya and Bukit Indah, Malaysia](https://malaysiacities.mit.edu/paperAkinropo)"
+**Working Paper:** "{{% resource_link "656f6c91-38a8-41d4-96b2-c958eab6c65a" "A Comparative Analysis of Shopping Malls in Putrajaya and Bukit Indah, Malaysia" %}}"
 
