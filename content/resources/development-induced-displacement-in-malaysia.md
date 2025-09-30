@@ -30,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Reazul Ahsan
 
-**Working Paper:** "[Mega-Infrastructure Development-Induced Displacement in East Malaysia: A Study of Social Sustainability](https://malaysiacities.mit.edu/paperAhsan)"
+**Working Paper:** "{{% resource_link "209cd00a-8932-40b0-a00c-ff74bd5d8d24" "Mega-Infrastructure Development-Induced Displacement in East Malaysia: A Study of Social Sustainability" %}}"
 

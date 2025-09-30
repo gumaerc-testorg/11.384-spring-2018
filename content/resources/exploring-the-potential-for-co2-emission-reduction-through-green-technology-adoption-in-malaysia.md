@@ -37,5 +37,5 @@ video_metadata:
 
 **Instructor:** Dr. Fan Tu
 
-**Working Paper:** "[Promoting Urban Sustainability Through Green Technology: The Case of Malaysia](https://malaysiacities.mit.edu/paperTu)"
+**Working Paper:** "{{% resource_link "fcfd5510-b16b-408e-a0d5-c06221a377da" "Promoting Urban Sustainability Through Green Technology: The Case of Malaysia" %}}"
 

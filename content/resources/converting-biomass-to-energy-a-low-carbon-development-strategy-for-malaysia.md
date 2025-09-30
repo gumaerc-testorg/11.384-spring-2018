@@ -30,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Nor Aishah Saidina Amin
 
-**Working Paper:** "[Reducing Carbon Dioxide Emissions in Biomass Power Plants Using the INCAM Model](https://malaysiacities.mit.edu/paperAmin)"
+**Working Paper:** "{{% resource_link "fbf14cff-5058-4b17-9492-3915cef2a171" "Reducing Carbon Dioxide Emissions in Biomass Power Plants Using the INCAM Model" %}}"
 

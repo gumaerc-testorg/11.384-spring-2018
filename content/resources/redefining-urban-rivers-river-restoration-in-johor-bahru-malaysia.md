@@ -30,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Soriya Yin
 
-**Working Paper:** "[Sustainable City Tourism in Developing Countries: Malaysia Experience](https://malaysiacities.mit.edu/paperYin)"
+**Working Paper:** "{{% resource_link "23f2a9d4-4b76-4f98-b719-7284f3ff2656" "Sustainable City Tourism in Developing Countries: Malaysia Experience" %}}"
 
