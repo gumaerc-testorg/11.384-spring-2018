@@ -30,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Norsidah Ujang
 
-**Working Paper:** "[Transforming the Historical Urban Village of Kampong Bharu into a New Urban Centre in Kuala Lumpur](https://malaysiacities.mit.edu/paperUjang)"
+**Working Paper:** "{{% resource_link "923b3b69-3b4d-437c-ba57-1e22e464c314" "Transforming the Historical Urban Village of Kampong Bharu into a New Urban Centre in Kuala Lumpur" %}}"
 

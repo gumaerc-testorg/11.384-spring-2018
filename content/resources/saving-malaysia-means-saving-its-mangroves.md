@@ -30,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Hong Ching Goh
 
-**Working Paper:** "[Assessing Mangrove Conservation Efforts in Iskandar Malaysia](https://malaysiacities.mit.edu/paperGoh)"
+**Working Paper:** "{{% resource_link "f97aa98e-feec-41f0-a058-2fc7964ebfa5" "Assessing Mangrove Conservation Efforts in Iskandar Malaysia" %}}"
 

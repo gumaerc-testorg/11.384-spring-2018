@@ -13,11 +13,11 @@ uid: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
 
 The Malaysia Sustainable Cities Practicum (MSCP) is an intensive field-based course that brings 15 graduate students to Malaysia to learn about and analyze sustainable city development in five cities in Malaysia.
 
-In the first part of the Practicum, which happens in the fall each year, selected graduate students in the [Department of Urban Studies and Planning](http://dusp.mit.edu/) participate in an online self-study during which they learn about Malaysian culture, history, politics, ecology, geography, planning, and economics. They also learn about reflective practice and journaling. During the January Independent Activities Period, students and faculty travel to Malaysia for two weeks to conduct field-based research in conjunction with student and faculty colleagues at [Universiti Teknologi Malaysia](http://www.utm.my/).
+In the first part of the Practicum, which happens in the fall each year, selected graduate students in the {{% resource_link "f2e712a2-fe56-4788-b845-92073d4bb999" "Department of Urban Studies and Planning" %}} participate in an online self-study during which they learn about Malaysian culture, history, politics, ecology, geography, planning, and economics. They also learn about reflective practice and journaling. During the January Independent Activities Period, students and faculty travel to Malaysia for two weeks to conduct field-based research in conjunction with student and faculty colleagues at {{% resource_link "e5908476-15a3-46f9-af81-5e19801f8d09" "Universiti Teknologi Malaysia" %}}.
 
-Each year, [MSCP visiting international scholars](https://malaysiacities.mit.edu/scholars) join the IAP Practicum as part of the teaching faculty. In the spring, they come to MIT and work with MIT doctoral students and faculty to prepare research papers to submit to peer-reviewed journals (in their separate fields) and produce teaching videos for global distribution.
+Each year, {{% resource_link "d3979ac2-d7a5-411d-bccb-54b97b952a4c" "MSCP visiting international scholars" %}} join the IAP Practicum as part of the teaching faculty. In the spring, they come to MIT and work with MIT doctoral students and faculty to prepare research papers to submit to peer-reviewed journals (in their separate fields) and produce teaching videos for global distribution.
 
-The Practicum concludes with a one-week group session at MIT that generates a [Research Agenda](https://malaysiacities.mit.edu/researchagenda) spelling out suggested research topics for the next year's cohort of international visiting scholars.
+The Practicum concludes with a one-week group session at MIT that generates a {{% resource_link "08b1d563-6cb8-4813-b842-3a87b7095aa9" "Research Agenda" %}} spelling out suggested research topics for the next year's cohort of international visiting scholars.
 
 ## Course Outcomes
 
@@ -44,7 +44,7 @@ The Practicum concludes with a one-week group session at MIT that generates a [R
 
 ### Prerequisites
 
-Students must apply and be accepted into the [Malaysia Sustainable Cities Practicum](https://malaysiacities.mit.edu/).
+Students must apply and be accepted into the {{% resource_link "15e27542-23c8-4d93-8c06-f69362242684" "Malaysia Sustainable Cities Practicum" %}}.
 
 ### Requirements Satisfied
 
@@ -84,7 +84,7 @@ Mostly urban studies and planning
 
 - Students complete a mandatory self-paced online tutorial that prepares them to interact with citizens and public officials in Malaysia. The tutorial covers Malaysian culture, history, politics, geography, ecology, planning, and economics.
 - Students write three short response papers based on the assigned readings and are encouraged to integrate any additional readings on Malaysia beyond what is assigned.
-- Practicum students also participate in a short reflective practice workshop facilitated by the [Community Innovator’s Lab (CoLab)](https://colab.mit.edu/) in DUSP to learn about the reflective practice and journaling tools they are expected to use throughout the Practicum.
+- Practicum students also participate in a short reflective practice workshop facilitated by the {{% resource_link "ca79a92f-5b0b-42a3-a0c8-9bf743dcbd89" "Community Innovator’s Lab (CoLab)" %}} in DUSP to learn about the reflective practice and journaling tools they are expected to use throughout the Practicum.
 
 ### January: Travel to Malaysia
 
